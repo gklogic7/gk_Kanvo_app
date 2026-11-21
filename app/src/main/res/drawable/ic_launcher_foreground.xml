@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Subtle shadow card layer behind the primary artboard -->
+    <path
+        android:fillColor="#441E1B4B"
+        android:pathData="M34,34 L76,34 C79.3,34 82,36.7 82,40 L82,76 C82,79.3 79.3,82 76,82 L34,82 C30.7,82 28,79.3 28,76 L28,40 C28,36.7 30.7,34 34,34 Z" />
+    <!-- Crisp white artboard frame inside 66dp safe zone -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M32,30 L74,30 C77.3,30 80,32.7 80,36 L80,72 C80,75.3 77.3,78 74,78 L32,78 C28.7,78 26,75.3 26,72 L26,36 C26,32.7 28.7,30 32,30 Z" />
+    <!-- Bold geometric Kanvo 'K' mark -->
+    <path
+        android:fillColor="#6D28D9"
+        android:pathData="M37,40 L44,40 L44,52.5 L57.5,40 L66.5,40 L51.5,53.8 L67.5,68 L58,68 L44,55.5 L44,68 L37,68 Z" />
+    <!-- Accent design spark dot in top-right corner of the artboard -->
+    <path
+        android:fillColor="#EC4899"
+        android:pathData="M67,37 A4,4 0 1,1 67,45 A4,4 0 1,1 67,37 Z" />
+</vector>

@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Kanvo</string>
+    <string name="studio_tagline">Design studio</string>
+    <string name="create_new_design">Start a blank canvas</string>
+    <string name="choose_aspect_ratio">Choose an aspect ratio to begin</string>
+    <string name="recent_designs">Recent designs</string>
+    <string name="empty_recent_title">No saved designs yet</string>
+    <string name="empty_recent_subtitle">Pick a canvas size above to start composing layers, typography, and photos.</string>
+    <string name="layers_title">Layers</string>
+    <string name="search_layers_hint">Search layers…</string>
+    <string name="add_page">Add page</string>
+    <string name="export_design">Export</string>
+    <string name="undo">Undo</string>
+    <string name="redo">Redo</string>
+    <string name="background_layer_name">Background</string>
+    <string name="custom_size">Custom size</string>
+    <string name="width_px">Width (px)</string>
+    <string name="height_px">Height (px)</string>
+    <string name="create_canvas">Create canvas</string>
+    <string name="cancel">Cancel</string>
+    <string name="done">Done</string>
+    <string name="save_to_gallery">Save to Gallery</string>
+    <string name="share_image">Share</string>
+    <string name="cd_back_home">Back to studio home</string>
+    <string name="cd_toggle_theme">Switch studio theme</string>
+    <string name="cd_collapse_layers">Collapse layers panel</string>
+    <string name="cd_expand_layers">Open layers panel</string>
+    <string name="cd_lock_layer">Toggle layer lock</string>
+    <string name="cd_visibility_layer">Toggle layer visibility</string>
+    <string name="cd_rotate_handle">Rotate selected layer</string>
+    <string name="cd_delete_layer">Delete selected layer</string>
+    <string name="cd_duplicate_layer">Duplicate selected layer</string>
+    <string name="cd_more_options">More layer actions</string>
+</resources>

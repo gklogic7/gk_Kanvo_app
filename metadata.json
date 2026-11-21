@@ -1,0 +1,6 @@
+{
+  "name": "Kanvo",
+  "description": "Canva-inspired multi-page graphic design and image editing studio for phones, foldables, and tablets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
